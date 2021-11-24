@@ -1,9 +1,7 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=voidotexe&show_icons=true&theme=tokyonight" />
-</a>
+<div align="center">
+  <a href="https://github.com/voidotexe">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=voidotexe&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidotexe&theme=tokyonight"/>
+</div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180px" width="450px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidotexe&theme=tokyonight" />
-</a>
-
-<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
