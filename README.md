@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180px" width="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidotexe&theme=tokyonight" />
+  <img height="180px" width="450px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidotexe&theme=tokyonight" />
 </a>
 
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
