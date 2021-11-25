@@ -4,4 +4,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidotexe&theme=tokyonight"/>
 </div>
 
-<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></img>
+<br/><br/>
+```csharp
+namespace About
+{
+    public class Me : IDad, IMom
+    {
+        public override string ToString()
+        {
+            return "Coding is fun :)";
+        }
+    }
+}
+```
