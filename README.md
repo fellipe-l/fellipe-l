@@ -18,3 +18,8 @@ namespace About
     }
 }
 ```
+<br/>
+<p align="center"> Total profile visitors </p>
+<p align="center">
+  <img alingn="center" src="https://profile-counter.glitch.me/voidotexe/count.svg" />
+</p>
