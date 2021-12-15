@@ -4,7 +4,8 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidotexe&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></img>
+<img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"></img>
+<img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"></img>
 <br/><br/>
 ```csharp
 namespace About
