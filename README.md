@@ -1,9 +1,3 @@
-<a href="https://github.com/voidotexe">
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidotexe&layout=compact&langs_count=7&theme=tokyonight"/>
-  </div>
-</a>
-<br>
 <div align="center">
   <img align="center" height="60" width="60" title=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
   <img align="center" height="60" width="60" title="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
