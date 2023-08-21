@@ -7,7 +7,7 @@
 <br/><br/>
 
 ```go
-package About
+package about
 
 type Me struct {}
 
